@@ -1,5 +1,5 @@
 # telack
-Telegram - Slack relay bot.
+Telegram - Slack webhook system.
 
 Telack is a simple relay between Slack and Telegram. Instructions are in the documents, just get it up and running and you're good to go;
 start sending messages between your Slack team and Telegram group (Because talking just with the bot isn't really brilliant, right?)
